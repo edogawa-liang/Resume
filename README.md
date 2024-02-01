@@ -45,7 +45,7 @@
   This project utilizes statistical and machine learning methods to study the correlation between text and emojis in social media, developing a system that can recommend emojis matching the mood of the text. 
   [View on Github](https://github.com/edogawa-liang/Emoji-2022spring) 
 
-### Forecasting Popular Chocolate and Biscuit Flavor Trends - Hung Ya Foods   
+### Forecasting Popular Chocolate and Biscuit Flavor Trends - Hun Ya Foods   
 - **Date:** September 2021 - November 2021  
 - **Abstract**: 
   This project employed statistical methods to identify characteristics of high-sales products, discovering the potential to launch new flavors during peak seasons for different groups. It also confirmed that gender, age, and region are associated with flavor preferences, enabling targeted product launches for specific customer segments.
