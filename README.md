@@ -62,7 +62,7 @@
   *August 2021 - June 2022*
   - Acting as a bridge for communication with the school and managing the team's financial flow, I learned to draft reports, handle reimbursements, negotiate with vendors, and various administrative procedures, along with some organizational management skills.
 
-- **NTPU STAT Women's Volleyball Team**  
+- **National Taipei University Department of Statistics Women's Volleyball Team**  
   *September 2019 - June 2023*
 - **Kaohsiung Kapok Women's Baseball Team**  
   *March 2019 - Present*
