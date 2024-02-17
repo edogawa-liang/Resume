@@ -58,11 +58,11 @@
   [View on Github](https://github.com/edogawa-liang/MLB-2022summer) 
 
 ## Extracurricular Activities
-- **President and Recorder, Taipei University Baseball Club**  
+- **President and Recorder, National Taipei University Baseball Club**  
   *August 2021 - June 2022*
   - Acting as a bridge for communication with the school and managing the team's financial flow, I learned to draft reports, handle reimbursements, negotiate with vendors, and various administrative procedures, along with some organizational management skills.
 
-- **Taipei University Women's Volleyball Team**  
+- **NTPU STAT Women's Volleyball Team**  
   *September 2019 - June 2023*
 - **Kaohsiung Kapok Women's Baseball Team**  
   *March 2019 - Present*
