@@ -27,31 +27,31 @@
 
 
 ## Project Experience
-### Reconstructing Social Network Structures Based on Limited User Information  
+### Reconstructing Social Network Structures Based on Limited User Information (基於有限的使用者資訊還原社群網路結構)  
 - **Date:** December 2023
 - **Abstract**: 
   This project uses Graph Neural Network to explore the feasibility of using limited user information for the reconstruction of social network structures, thereby evaluating the risk of privacy leakage. 
   [View on Github](https://github.com/edogawa-liang/GML-2023fall)  
 
-### Investigation of Multifaceted Factors Affecting House Prices in Taipei City 
+### Investigation of Multifaceted Factors Affecting House Prices in Taipei City (探討多面向因素的房價預測-以台北市為例)
 - **Date:** September 2023 - December 2023 
 - **Abstract**: 
   Using statistical and machine learning methods, this study explores the relationship between housing prices and variables across three main aspects: real estate information, environmental functionality, and macroeconomic factors, with the aim of developing a housing price prediction model.
   [View on Github](https://github.com/edogawa-liang/DS-2023fall)  
 
-### What Do You Mean? Developing an Emoji Recommender with a Classification Model  
+### What Do You Mean? Developing an Emoji Recommender with a Classification Model (你是什麼意思?以分類模型建立表情符號推薦器)  
 - **Date:** January 2022 - June 2022
 - **Abstract**: 
   This project utilizes statistical and machine learning methods to study the correlation between text and emojis in social media, developing a system that can recommend emojis matching the mood of the text. 
   [View on Github](https://github.com/edogawa-liang/Emoji-2022spring) 
 
-### Forecasting Popular Chocolate and Biscuit Flavor Trends - Hun Ya Foods   
+### Forecasting Popular Chocolate and Biscuit Flavor Trends - Hun Ya Foods (熱門巧克力和餅乾口味變化預測-宏亞食品)  
 - **Date:** September 2021 - November 2021  
 - **Abstract**: 
   This project employed statistical methods to identify characteristics of high-sales products, discovering the potential to launch new flavors during peak seasons for different groups. It also confirmed that gender, age, and region are associated with flavor preferences, enabling targeted product launches for specific customer segments.
   [View on Github](https://github.com/edogawa-liang/HunYa-2021fall) 
 
-### Assessing the Performance of American Professional Baseball Batters
+### Assessing the Performance of American Professional Baseball Batters (美國職棒打者表現之評估)
 - **Date:** July 2022
 - **Abstract**: 
   Using regression models and clustering techniques to assess the unique strengths of players in each group. 
